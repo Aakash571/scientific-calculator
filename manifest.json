@@ -1,0 +1,21 @@
+{
+    "name": "Your Calculator App Name",
+    "short_name": "Calculator",
+    "description": "A scientific calculator web app.",
+    "start_url": "/",
+    "display": "standalone", 
+    "theme_color": "#2196F3",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+     
+    ]
+  }
